@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ASG Gamification",
-    "slug": "asg-gaminifaction",
+    "slug": "asg-gamification",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
